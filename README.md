@@ -10,18 +10,23 @@ Hence, our project is about the dynamics of happiness, where we use datasets obt
 ## Contributors
 
 Ng Zhengbin Claven - Sample collection, exploratory analysis, analytical visualization, machine learning, conclusion
+
 Lim Kang You - Sample collection, exploratory analysis, analytical visualization, machine learning, conclusion
+
 Chin Shao Yang - Sample collection, exploratory analysis, analytical visualization, machine learning, conclusion
 
 <3 we did everything together <3
 
 ## Problem Definition
 To utilize machine learning models to determine which factors are most predictive of happiness scores 
+
 Whether there is any correlation between happiness scores and the human development index
 
 ## Models Used
 Random Forest
+
 Gradient Boosting
+
 K-Means
 
 ## Conclusion
